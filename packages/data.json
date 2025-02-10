@@ -1,0 +1,458 @@
+{
+  "success": true,
+  "credits_left": 20,
+  "rate_limit_left": 20,
+  "person": {
+    "publicIdentifier": "cheslav-zhuravsky",
+    "linkedInIdentifier": "ACoAAB9OznIBba-xC3ZWUX7MvR_d-EiNnCfsFT0",
+    "memberIdentifier": "525258354",
+    "linkedInUrl": "https://www.linkedin.com/in/cheslav-zhuravsky",
+    "firstName": "Cheslav",
+    "lastName": "Zhuravsky",
+    "headline": "👨‍💻 Senior engineer looking for role in AI project",
+    "location": "Warsaw, Mazowieckie, Poland",
+    "summary": "Interested in:\n - roles: AI integration (LangChain, Flowise, OpenAI, etc.) or Senior frontend engineer\n - locations: UAE, Europe, Singapore\n - type: Remote or Dubai\n---\nWeb developer with 9 years of experience  (JavaScript/TypeScript, React, GraphQL, Next.js, Node.js), crypto enthusiast (from 2018), dreamer 🙃\nNow actively learning AI, agents/automations. 🤖\n\nI am good at: startups/MVPs (focus on important, quick launch, modern tools, maybe no-code/low-code solutions), crypto/web3.\nDuring my work I focus on problems and suggest how to solve them.\nCan do team lead responsibilities.\n\nNationality: Belarus 🇧🇾\nHave good IT education and Western thinking.\n\nIn my free time I like to visit tech meetups/conferences, like sports activities (mix of sport's gymnastics, yoga, calisthenics).\n\nAlso I can solve Rubik's cube for 20-30 seconds 😄\n\nLets talk;)",
+    "photoUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHEGTUjf5-W1A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1655296308960?e=1744848000&v=beta&t=Litrl1PtA7V-veq4JJ3cbrP1fj8_ra9A9YthoirSQHA",
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/C4D16AQEdPdGkXcjBHg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1655297499833?e=1744848000&v=beta&t=eQ4XJzhj_mxkDxlWLS7-wfMY_dy57mkRfKOauYgn5JE",
+    "openToWork": true,
+    "premium": false,
+    "pronoun": null,
+    "showVerificationBadge": false,
+    "creationDate": {
+      "month": 8,
+      "year": 2016
+    },
+    "followerCount": 1103,
+    "positions": {
+      "positionsCount": 10,
+      "positionHistory": [
+        {
+          "title": "Front-end Engineer",
+          "companyName": "cyber~Congress 🟢",
+          "companyLocation": "Earth · Remote",
+          "description": "Developing complex web3 front-end at https://cyb.ai and https://spacepussy.ai (canary/meme chain)\n\nParticipating in features:\n - Oracle (blockchain search engine like Google/Yandex)\n - Robot (gamified explorer of address)\n - Sense (blockchain messager, like Telegram)\n - Cyberver (incentivize app similar to Bittensor) - https://spacepussy.ai/cyberver\n - AI integrations (in-app features, knowledge based system)\n\nAlso doing other features/bugfixing - https://github.com/cybercongress/cyb-ts/graphs/contributors\n\nhttps://github.com/cybercongress\nhttps://twitter.com/cyber_devs",
+          "startEndDate": {
+            "start": {
+              "month": 3,
+              "year": 2023
+            },
+            "end": null
+          },
+          "contractType": "Full-time",
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=+cyber%7ECongress+%F0%9F%9F%A2"
+        },
+        {
+          "title": "Software Engineer",
+          "companyName": "Nabu.xyz",
+          "companyLocation": "London, England, United Kingdom · Remote",
+          "description": "Nabu – valuation platform for NFTs, using machine learning engine.\n\nFront-end development: (React, Next.js, Recoil, TypeScript, GraphQL).\n\nMarketing automations:\nI worked with our marketer to setup automation for user engagement to track theirs activity/collect data. Have been collected 10k user's entries with data.\nTools used: Make(Integromat), Woorise, Sendinblue, Excel, Discord, Google analytics.\n\nWas good startup with skilled team, but had money running out.",
+          "startEndDate": {
+            "start": {
+              "month": 8,
+              "year": 2022
+            },
+            "end": {
+              "month": 1,
+              "year": 2023
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEP4a7lWnGK-A/company-logo_400_400/company-logo_400_400/0/1685980014310/nabuxyz_logo?e=1747267200&v=beta&t=yT0YnM6NCSyEMN-YGup0Tmgzal9fS_e84NuTA-z9wdA",
+          "linkedInUrl": "https://www.linkedin.com/company/86265219/",
+          "linkedInId": "86265219"
+        },
+        {
+          "title": "Digital nomad",
+          "companyName": "Digital Nomad",
+          "companyLocation": "Remote",
+          "description": "IT/blockchain/investing, freelance, traveling, looking for myself 🙂🧳\n\nhttps://www.upwork.com/fl/cheslavzhuravsky\nhttps://github.com/happylolonly",
+          "startEndDate": {
+            "start": {
+              "month": 4,
+              "year": 2021
+            },
+            "end": {
+              "month": 10,
+              "year": 2022
+            }
+          },
+          "contractType": "Self-employed",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFoi9CCOoJAdw/company-logo_400_400/company-logo_400_400/0/1630547950845/digital_nomad_logo?e=1747267200&v=beta&t=XDdkArQtCCtpx3A5r2RTIcmcYhIL1uczW9qXtMDJdA4",
+          "linkedInUrl": "https://www.linkedin.com/company/1372644/",
+          "linkedInId": "1372644"
+        },
+        {
+          "title": "Software Engineer",
+          "companyName": "🏢",
+          "companyLocation": "Warsaw, Poland · Remote",
+          "description": "I worked as front-end team lead in social network startup.\n\nThe project is private (but could share more info while talking).\n\nTechnologies: React, Redux, Node.js, JavaScript.\n\nResponsibilities:\n– deliver new features\n– managing front-end team\n– code review\n– suggesting better options for business\n– communicating with other team members\n– mentoring junior developers",
+          "startEndDate": {
+            "start": {
+              "month": 7,
+              "year": 2021
+            },
+            "end": {
+              "month": 7,
+              "year": 2022
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=%F0%9F%8F%A2"
+        },
+        {
+          "title": "Javascript Developer",
+          "companyName": "Oxagile",
+          "companyLocation": "Minsk, Belarus · On-site",
+          "description": "I worked in a large company as a front-end developer on project similar to Netflix (video domain).\nAdditionally, it had dynamic configuration/styling from the admin panel.\n\nThe project was tricky, interesting, and had a large team.\nExcept of front-end role, I tried to help with automatization and improving communications between different teams where I saw problems.\n\nMain technologies: React, MobX, JavaScript.\n\nAlso very liked this company and people ❤️",
+          "startEndDate": {
+            "start": {
+              "month": 6,
+              "year": 2020
+            },
+            "end": {
+              "month": 4,
+              "year": 2021
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEwdB20sqO0NA/company-logo_400_400/company-logo_400_400/0/1662132517490/oxagile_logo?e=1747267200&v=beta&t=S_snMO4DGz5iWtuCfk67biKatxQCEmH6AQRMYMxV9Ao",
+          "linkedInUrl": "https://www.linkedin.com/company/213304/",
+          "linkedInId": "213304"
+        },
+        {
+          "title": "Software Engineer",
+          "companyName": "Hoop",
+          "companyLocation": "United States",
+          "description": "I worked as lead front-end engineer on social mental health startup.\nWe had an international team with owner in USA.\n\nTechnologies: React, React Native, Redux, Sass, Node.js\n\nhttp://thehoop.us (production, now not working)\nhttp://thehoop.surge.sh (dev)\n\nGoogle Play – https://play.google.com/store/apps/details?id=com.thehoop.app\nApple Store – https://apps.apple.com/us/app/hoop-helping-out-our-peers/id1475620284",
+          "startEndDate": {
+            "start": {
+              "month": 4,
+              "year": 2019
+            },
+            "end": {
+              "month": 2,
+              "year": 2020
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGAXUDVjcRWtw/company-logo_400_400/company-logo_400_400/0/1630613742455/i_lu_technologies_inc_logo?e=1747267200&v=beta&t=xSzQc-vk7JvmRkClsaFK_g8yktOdYjPY96ja7NHHtrg",
+          "linkedInUrl": "https://www.linkedin.com/company/35527799/",
+          "linkedInId": "35527799"
+        },
+        {
+          "title": "Founder/Fullstack developer",
+          "companyName": "YourFriends",
+          "companyLocation": "Belarus",
+          "description": "Tried to run a amazing software development company with friends 😋\nIt was tricky, but interesting and fun.\n\nWe helped customers with a lot of different jobs - https://www.upwork.com/o/companies/~019c003c6e7038a632",
+          "startEndDate": {
+            "start": {
+              "month": 4,
+              "year": 2019
+            },
+            "end": {
+              "month": 12,
+              "year": 2019
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGucU_QcrwtjA/company-logo_400_400/company-logo_400_400/0/1630596794063?e=1747267200&v=beta&t=0aHSmcbcxztpAKxjnpTh--LqiLj1kVTvt-RJjUIUFMY",
+          "linkedInUrl": "https://www.linkedin.com/company/19129642/",
+          "linkedInId": "19129642"
+        },
+        {
+          "title": "Frontend developer",
+          "companyName": "Social Discovery Ventures",
+          "companyLocation": "Minsk, Belarus · On-site",
+          "description": "I participated in the development of a platform on which a lot of dating websites (main https://www.dating.com and https://www.flirtwith.com) created and launched.\n\nTechnologies: JavaScript, React, Node.js, Flux, Less\n\nResponsibilities:\n– integration two applications into one\n– new functionality development\n– bugfixing\n– metrics improvement\n– optimization\n– adding ES6+\n– setting up eslint, babel, webpack/gulp\n– attempts to add tests\n– process automation\n– launch a new project for the Chinese market",
+          "startEndDate": {
+            "start": {
+              "month": 10,
+              "year": 2017
+            },
+            "end": {
+              "month": 10,
+              "year": 2018
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEHQQR05XWQvA/company-logo_400_400/company-logo_400_400/0/1736328255334/social_discovery_group_logo?e=1747267200&v=beta&t=7gr5RroK6lXMBONS8fN3AsXkkZr-zPwEpw9pmJI2uaE",
+          "linkedInUrl": "https://www.linkedin.com/company/3683382/",
+          "linkedInId": "3683382"
+        },
+        {
+          "title": "Front-end developer",
+          "companyName": "Migas",
+          "companyLocation": "Minsk, Belarus",
+          "description": "I was developing financial startup (microloan application) from scratch.\nTeam ~10 people.\n\nTechnologies: React, Redux, Sass, Bootstrap\n\nActivities:\n– discuss architecture\n– develop front-end\n– communication with team and customer\n– fix bugs\n\nIt was a good startup, but it was closed 😥",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2017
+            },
+            "end": {
+              "month": 9,
+              "year": 2017
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Migas"
+        },
+        {
+          "title": "Junior front-end developer",
+          "companyName": "Freelance/Learning",
+          "companyLocation": "Minsk, Belarus",
+          "description": "Learning programming, visiting courses, internships, small projects/works (JavaScript, Web)\n\nDomains: Crypto (trading platform), real estate (https://nedvex.ru), management app (for Burger King).",
+          "startEndDate": {
+            "start": {
+              "month": 9,
+              "year": 2015
+            },
+            "end": {
+              "month": 12,
+              "year": 2016
+            }
+          },
+          "contractType": "Self-employed",
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Freelance%2FLearning"
+        }
+      ]
+    },
+    "schools": {
+      "educationsCount": 5,
+      "educationHistory": [
+        {
+          "degreeName": null,
+          "fieldOfStudy": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=AI+apps%2Fagents+development+%7C+Automations",
+          "schoolLogo": null,
+          "schoolName": "AI apps/agents development | Automations",
+          "startEndDate": {
+            "start": {
+              "month": 7,
+              "year": 2024
+            },
+            "end": {
+              "month": 1,
+              "year": 2026
+            }
+          }
+        },
+        {
+          "degreeName": "Web3/crypto/blockchain",
+          "fieldOfStudy": null,
+          "description": "Meetups/conferences/courses\n\nMoralis Academy (https://academy.moralis.io)\nAlchemy University (https://university.alchemy.com)\nCyber Academy (https://cyberacademy.dev)\nhttps://learnweb3.io\nhttps://cryptozombies.io\n\nMy Github - https://github.com/happylolonly",
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Web3",
+          "schoolLogo": null,
+          "schoolName": "Web3",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2017
+            },
+            "end": {
+              "month": 1,
+              "year": 2025
+            }
+          }
+        },
+        {
+          "degreeName": "Computer Engineering",
+          "fieldOfStudy": null,
+          "description": "https://academy.interchain.io\nhttps://www.linkedin.com/company/interchain-foundation",
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Interchain+Developer+Academy",
+          "schoolLogo": null,
+          "schoolName": "Interchain Developer Academy",
+          "startEndDate": {
+            "start": {
+              "month": 11,
+              "year": 2023
+            },
+            "end": {
+              "month": 2,
+              "year": 2024
+            }
+          }
+        },
+        {
+          "degreeName": "Bachelor's degree",
+          "fieldOfStudy": null,
+          "linkedInUrl": "https://www.linkedin.com/company/15091598/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQH7DTCk5iDqFw/company-logo_400_400/company-logo_400_400/0/1666876000616/belarusian_state_university_logo?e=1747267200&v=beta&t=MIvxt9gNIDrCx9XPSYW_Y3Z091iaV_lb11L59M_BftU",
+          "schoolName": "Belarusian State University",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2011
+            },
+            "end": {
+              "month": 1,
+              "year": 2015
+            }
+          }
+        },
+        {
+          "degreeName": "Mathematics",
+          "fieldOfStudy": null,
+          "description": "Had a good and fun time in my school 😊",
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Polytechnic+High+School+%E2%84%966",
+          "schoolLogo": null,
+          "schoolName": "Polytechnic High School №6",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2000
+            },
+            "end": {
+              "month": 1,
+              "year": 2011
+            }
+          }
+        }
+      ]
+    },
+    "skills": [
+      "OpenAI API",
+      "Web Development",
+      "AI Software Development",
+      "Problem Solving",
+      "JavaScript",
+      "Artificial Intelligence (AI)",
+      "Web Application Development",
+      "AI Agents",
+      "LangChain",
+      "Flowise",
+      "AI integration",
+      "Solution Architecture",
+      "Front-end Engineering",
+      "Large Language Models (LLM)",
+      "Python (Programming Language)",
+      "Make.com",
+      "Cosmos SDK",
+      "Webpack",
+      "Integration",
+      "GitHub",
+      "Automation",
+      "MySQL",
+      "Web Applications",
+      "TypeScript",
+      "Apollo GraphQL",
+      "REST APIs",
+      "JavaScript Libraries",
+      "Git",
+      "Front-end Coding",
+      "HTML5",
+      "Express.js",
+      "Back-End Web Development",
+      "Full-Stack Development",
+      "Ethereum",
+      "GraphQL",
+      "Next.js",
+      "Non-Fungible Tokens (NFTs)",
+      "web3",
+      "Front-End Development",
+      "MobX"
+    ],
+    "languages": ["Belarusian", "English", "Russian", "Ukrainian"],
+    "recommendations": {
+      "recommendationsCount": 2,
+      "recommendationHistory": [
+        {
+          "caption": "July 12, 2022, Eugene was senior to Cheslav but didn't manage Cheslav directly",
+          "description": "Cheslav is very fast and efficient engineer. He is qualified and open minded developer. We are worked together on project and we had good relations as colleagues and friends.",
+          "authorFullname": "Eugene Lyzo",
+          "authorUrl": "https://www.linkedin.com/in/eugenelyzo"
+        },
+        {
+          "caption": "June 27, 2022, The Headhunter 😊 managed Cheslav directly",
+          "description": "Cheslav impressed me from the first interview - presenting me with his design of our system, and his later work confirmed that he is one of the rare front-end engineers - working fast, highly committed, and working to build a great product not just focus on the design itself. Most important, even though we never met, we built a great remote team together and had a lot of fun.",
+          "authorFullname": "The Headhunter 😊 J (Jianhong) Z",
+          "authorUrl": "https://www.linkedin.com/in/zhoujianhong"
+        }
+      ]
+    },
+    "certifications": {
+      "certificationsCount": 11,
+      "certificationHistory": [
+        {
+          "name": "AI-Agents: Automation & Business with LangChain & LLM Apps",
+          "organizationName": "Udemy",
+          "organizationUrl": "https://www.linkedin.com/company/822535/",
+          "issuedDate": "Issued Jan 2025"
+        },
+        {
+          "name": "Make automations",
+          "organizationName": "Make",
+          "organizationUrl": "https://www.linkedin.com/company/82935315/",
+          "issuedDate": "Issued Aug 2024"
+        },
+        {
+          "name": "Blockchain & Bitcoin 101",
+          "organizationName": "Moralis Academy",
+          "organizationUrl": "https://www.linkedin.com/company/19079208/",
+          "issuedDate": "Issued Mar 2021"
+        },
+        {
+          "name": "Ethereum 101",
+          "organizationName": "Moralis Academy",
+          "organizationUrl": "https://www.linkedin.com/company/19079208/",
+          "issuedDate": "Issued Mar 2021"
+        },
+        {
+          "name": "Ethereum Smart Contract Programming 101",
+          "organizationName": "Moralis Academy",
+          "organizationUrl": "https://www.linkedin.com/company/19079208/",
+          "issuedDate": "Issued Mar 2021"
+        },
+        {
+          "name": "Docker and Kubernetes: The Complete Guide",
+          "organizationName": "Udemy",
+          "organizationUrl": "https://www.linkedin.com/company/822535/",
+          "issuedDate": "Issued Feb 2019"
+        },
+        {
+          "name": "Node JS: Advanced Concepts",
+          "organizationName": "Udemy",
+          "organizationUrl": "https://www.linkedin.com/company/822535/",
+          "issuedDate": "Issued Feb 2019"
+        },
+        {
+          "name": "Machine Learning",
+          "organizationName": "Tensor.by",
+          "organizationUrl": null,
+          "issuedDate": "Issued Dec 2018"
+        },
+        {
+          "name": "Machine Learning with Javascript",
+          "organizationName": "Udemy",
+          "organizationUrl": "https://www.linkedin.com/company/822535/",
+          "issuedDate": "Issued Dec 2018"
+        },
+        {
+          "name": "The Complete Developers Guide to MongoDB",
+          "organizationName": "Udemy",
+          "organizationUrl": "https://www.linkedin.com/company/822535/",
+          "issuedDate": "Issued Apr 2018"
+        },
+        {
+          "name": "Server Side Rendering with React and Redux",
+          "organizationName": "Udemy",
+          "organizationUrl": "https://www.linkedin.com/company/822535/",
+          "issuedDate": "Issued Dec 2017"
+        }
+      ]
+    },
+    "testScores": {
+      "testScoresCount": 0,
+      "testScoreHistory": []
+    },
+    "volunteeringExperiences": {
+      "volunteeringExperiencesCount": 0,
+      "volunteeringExperienceHistory": []
+    }
+  },
+  "company": null
+}
