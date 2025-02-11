@@ -1,33 +1,56 @@
-import os
+from typing import Tuple
+
+from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
-from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 
 from packages.linkedin import scrape_linkedin_profile
+from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
+from output_parsers import summary_parser, Summary
+
+from config import DEFAULT_MODEL_NAME
 
 
-OPEN_API_KEY = os.environ["OPEN_API_KEY"]
-
-if __name__ == "__main__":
+def ice_break_with(name: str) -> Tuple[Summary, str]:
+    linkedin_url = linkedin_lookup_agent(name=name)
+    linkedin_data = scrape_linkedin_profile(
+        linkedin_profile_url=linkedin_url, mock=True
+    )
 
     summary_template = """
-        given the Linkedin information {information} about a person I want you to create:
-        1. A short summary
-        2. two interesting facts about them
+    given the information about a person from Linkedin {information},
+    I want you to create:
+
+    1. A short summary
+    2. two interesting facts about them 
+
+    Use both information from twitter and Linkedin
+    \n{format_instructions}
     """
 
     summary_prompt_template = PromptTemplate(
-        input_variables=["information"], template=summary_template
+        input_variables=["information"],
+        template=summary_template,
+        partial_variables={
+            "format_instructions": summary_parser.get_format_instructions()
+        },
     )
 
-    llm = ChatOpenAI(temperature=0, model_name="gpt-4o-mini", api_key=OPEN_API_KEY)
+    llm = ChatOpenAI(temperature=0, model_name=DEFAULT_MODEL_NAME)
 
-    chain = summary_prompt_template | llm
-
-    linkedin_data = scrape_linkedin_profile(
-        linkedin_profile_url="https://www.linkedin.com/in/cheslav-zhuravsky", mock=True
-    )
+    chain = summary_prompt_template | llm | summary_parser
 
     res = chain.invoke(input={"information": linkedin_data})
 
-    print(res)
+    return (
+        res,
+        linkedin_data.get("photoUrl"),
+    )
+
+
+
+if __name__ == "__main__":
+    load_dotenv()
+
+    print("Ice Breaker Enter")
+    ice_break_with(name="Cheslav Zhuravsky")
